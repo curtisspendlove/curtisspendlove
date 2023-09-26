@@ -8,6 +8,8 @@
 <a href="https://github.com/curtisspendlove#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=curtisspendlove&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="curtisspendlove" /></a>
 </p> 
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curtisspendlove)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ## Connect with Me
 
 <p align="left">
